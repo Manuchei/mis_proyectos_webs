@@ -1,4 +1,4 @@
 # mis_proyectos_webs
 Mis proyectos web
 
-Esto es una pr'actica de UNIR FP
+Esto es una practica de UNIR FP
